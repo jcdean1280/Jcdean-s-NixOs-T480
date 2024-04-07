@@ -1,0 +1,7 @@
+
+exec sway
+    
+exec waybar
+
+
+
